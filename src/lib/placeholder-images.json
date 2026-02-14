@@ -1,0 +1,184 @@
+{
+  "placeholderImages": [
+    {
+      "id": "video-thumb",
+      "description": "OFC Octa Fighting Championship cage fight highlight",
+      "imageUrl": "/Ofc/hero-bg.jpg",
+      "imageHint": "cage fight"
+    },
+    {
+      "id": "event-poster-1",
+      "description": "OFC 25 Reckoning Fight Poster",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "fight poster"
+    },
+    {
+      "id": "home-gallery-1",
+      "description": "OFC Fighter",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "mma fighter",
+      "group": "home-gallery"
+    },
+    {
+      "id": "home-gallery-2",
+      "description": "A focused fighter training with weights",
+      "imageUrl": "/Ofc/fighter-training.png",
+      "imageHint": "fighter training",
+      "group": "home-gallery"
+    },
+    {
+      "id": "home-gallery-3",
+      "description": "Intense staredown between two fighters",
+      "imageUrl": "/Ofc/fighter-staredown.png",
+      "imageHint": "fighter staredown",
+      "group": "home-gallery"
+    },
+    {
+      "id": "home-gallery-4",
+      "description": "A powerful kick during a match",
+      "imageUrl": "/Ofc/kickboxing-match.png",
+      "imageHint": "kickboxing match",
+      "group": "home-gallery"
+    },
+    {
+      "id": "event-poster-2",
+      "description": "OFC 24 Vendetta Fight Poster",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "fight poster"
+    },
+    {
+      "id": "event-poster-3",
+      "description": "OFC 23 Collision Course Fight Poster",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "fight poster"
+    },
+    {
+      "id": "event-poster-4",
+      "description": "OFC 22 Past Event Poster",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "fight poster"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Fighter getting hands wrapped",
+      "imageUrl": "/Ofc/fighter-prep.png",
+      "imageHint": "fighter preparation",
+      "group": "gallery"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Overhead shot of the octagon",
+      "imageUrl": "/Ofc/mma-octagon.png",
+      "imageHint": "mma octagon",
+      "group": "gallery"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A boxer training with a punching bag",
+      "imageUrl": "/Ofc/1.png",
+      "imageHint": "boxer training",
+      "group": "gallery"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Two grapplers in a match",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "grappling match",
+      "group": "gallery"
+    },
+    {
+      "id": "gallery-5",
+      "description": "A fighter raising their belt",
+      "imageUrl": "/Ofc/hero-bg.jpg",
+      "imageHint": "champion fighter",
+      "group": "gallery"
+    },
+    {
+      "id": "gallery-6",
+      "description": "The crowd at an OFC event",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "sports crowd",
+      "group": "gallery"
+    },
+    {
+      "id": "gallery-7",
+      "description": "Close up of a glove",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "boxing glove",
+      "group": "gallery"
+    },
+    {
+      "id": "gallery-8",
+      "description": "A high kick in a kickboxing match",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "kickboxing match",
+      "group": "gallery"
+    },
+    {
+      "id": "event-marathon",
+      "description": "Fit India Marathon Event Poster",
+      "imageUrl": "/Ofc/event_MARAthon.jpeg",
+      "imageHint": "marathon poster"
+    },
+    {
+      "id": "contact-map",
+      "description": "Placeholder map for contact section",
+      "imageUrl": "/Ofc/event-poster.jpg",
+      "imageHint": "city map"
+    },
+    {
+      "id": "sponsor-1",
+      "description": "Sponsor one logo",
+      "imageUrl": "/Ofc/ofc-logo.jpeg",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "sponsor-2",
+      "description": "Sponsor two logo",
+      "imageUrl": "/Ofc/ofc-logo.jpeg",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "sponsor-3",
+      "description": "Sponsor three logo",
+      "imageUrl": "/Ofc/ofc-logo.jpeg",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "sponsor-4",
+      "description": "Sponsor four logo",
+      "imageUrl": "/Ofc/ofc-logo.jpeg",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "sponsor-5",
+      "description": "Sponsor five logo",
+      "imageUrl": "/Ofc/ofc-logo.jpeg",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "why-ofc-1",
+      "description": "Professional fighting action",
+      "imageUrl": "/Ofc/about-us.jpg",
+      "imageHint": "professional fighting"
+    },
+    {
+      "id": "why-ofc-2",
+      "description": "Fair judging with professional referees",
+      "imageUrl": "/Ofc/about-us-extra.jpg",
+      "imageHint": "professional referee"
+    },
+    {
+      "id": "why-ofc-3",
+      "description": "Real opportunity for fighters",
+      "imageUrl": "/Ofc/brand-story.jpg",
+      "imageHint": "fighter opportunity"
+    },
+    {
+      "id": "why-ofc-4",
+      "description": "Discipline and respect in martial arts",
+      "imageUrl": "/Ofc/shop-bg.jpg",
+      "imageHint": "martial arts discipline"
+    }
+  ]
+}
